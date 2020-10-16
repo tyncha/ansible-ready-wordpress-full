@@ -1,0 +1,2 @@
+[web]
+web1 ansible_user=54.173.186.248 ansible_user=centos
